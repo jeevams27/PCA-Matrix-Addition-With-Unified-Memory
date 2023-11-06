@@ -13,8 +13,8 @@ To perform Matrix addition with unified memory and check its performance with nv
 
 ## Program
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: Jeeva MS
+Register number: 212221230040
 
 ```
 ### With Memset
